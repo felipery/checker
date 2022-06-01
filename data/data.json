@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Buy milk",
+    "completed": true,
+    "date": "31/05/2022"
+  },
+  {
+    "title": "Buy bread",
+    "date": "31/05/2022"
+  },
+  {
+    "title": "Buy butter",
+    "date": "31/05/2022"
+  },
+  {
+    "title": "Buy cheese",
+    "completed": "",
+    "date": "31/05/2022"
+  }
+]
